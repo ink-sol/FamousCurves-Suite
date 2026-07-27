@@ -2,12 +2,30 @@
 
 **A JSFX plugin suite for generating famous curves as spatial trajectories, built for music composition and electroacoustic music production in REAPER.**
 
+Developed as part of the research project *"Diseño y desarrollo de software orientado a la generación de curvas notables para su uso en la producción y enseñanza de música electroacústica"*, carried out at the Escuela de Música, Facultad de Humanidades y Artes, Universidad Nacional de Rosario (UNR), under the CIN's *Becas Estímulo a las Vocaciones Científicas 2024* program.
 
 Latest Release: [![GitHub release](https://img.shields.io/github/v/release/ink-sol/FamousCurves-Suite)](https://github.com/ink-sol/FamousCurves-Suite/releases)
 
-Developed as part of the research project *"Diseño y desarrollo de software orientado a la generación de curvas notables para su uso en la producción y enseñanza de música electroacústica"*, carried out at the Escuela de Música, Facultad de Humanidades y Artes, Universidad Nacional de Rosario (UNR), under the CIN's *Becas Estímulo a las Vocaciones Científicas 2024* program.
-
 ---
+## Installation
+
+There are two ways to install Famous Curves:
+
+### Method 1: Manual download (.zip)
+
+1. Download the `.zip` file from the latest release.
+2. Extract the contents of the `.zip`.
+3. Copy the extracted files into Reaper's **Resource Path** folder.
+   - You can find this folder in Reaper via `Options → Show REAPER resource path in explorer/finder...`
+
+### Method 2: Via ReaPack
+
+1. Open Reaper and go to `Extensions → ReaPack → Import a repository...`
+2. Paste the following `index.xml` URL: https://raw.githubusercontent.com/ink-sol/FamousCurves-Suite/main/index.xml
+3. Go to `Extensions → ReaPack → Browse packages...`
+4. Search for **Famous Curves** in the list.
+5. Right-click → **Install** (or check it and apply changes).
+6. Reaper will prompt you to restart to complete the installation.
 
 ## Overview
 
