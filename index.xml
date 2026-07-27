@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="ink-sol" commit="8ea94b793a425fd9ba132c86e9de3061fff04793">
+  <category name="FamousCurves">
+    <reapack name="FamousCurves.jsfx" type="effect" desc="Famous Curves">
+      <version name="0.01" author="Iñaki Solá" time="2026-07-22T19:36:00Z">
+        <changelog><![CDATA[Initial commit]]></changelog>
+        <source file="FamousCurves-Circumference.jsfx">https://raw.githubusercontent.com/ink-sol/FamousCurves-Suite/8ea94b793a425fd9ba132c86e9de3061fff04793/src/FamousCurves-Circumference.jsfx</source>
+        <source file="FamousCurves-Lissajous.jsfx">https://raw.githubusercontent.com/ink-sol/FamousCurves-Suite/8ea94b793a425fd9ba132c86e9de3061fff04793/src/FamousCurves-Lissajous.jsfx</source>
+        <source file="FamousCurves-Lissajous.jsfx.rpl">https://raw.githubusercontent.com/ink-sol/FamousCurves-Suite/8ea94b793a425fd9ba132c86e9de3061fff04793/src/FamousCurves-Lissajous.jsfx.rpl</source>
+        <source file="FamousCurves-Rhodonea.jsfx">https://raw.githubusercontent.com/ink-sol/FamousCurves-Suite/8ea94b793a425fd9ba132c86e9de3061fff04793/src/FamousCurves-Rhodonea.jsfx</source>
+        <source file="FamousCurves-Rhodonea.jsfx.rpl">https://raw.githubusercontent.com/ink-sol/FamousCurves-Suite/8ea94b793a425fd9ba132c86e9de3061fff04793/src/FamousCurves-Rhodonea.jsfx.rpl</source>
+        <source file="FamousCurves-Spirals.jsfx">https://raw.githubusercontent.com/ink-sol/FamousCurves-Suite/8ea94b793a425fd9ba132c86e9de3061fff04793/src/FamousCurves-Spirals.jsfx</source>
+        <source file="FamousCurves-Spirograph.jsfx">https://raw.githubusercontent.com/ink-sol/FamousCurves-Suite/8ea94b793a425fd9ba132c86e9de3061fff04793/src/FamousCurves-Spirograph.jsfx</source>
+        <source file="FamousCurves-Spirograph.jsfx.rpl">https://raw.githubusercontent.com/ink-sol/FamousCurves-Suite/8ea94b793a425fd9ba132c86e9de3061fff04793/src/FamousCurves-Spirograph.jsfx.rpl</source>
+        <source file="dependencies/FamousCurves-Graph.jsfx-inc">https://raw.githubusercontent.com/ink-sol/FamousCurves-Suite/8ea94b793a425fd9ba132c86e9de3061fff04793/src/dependencies/FamousCurves-Graph.jsfx-inc</source>
+        <source file="dependencies/FamousCurves-InputEvents.jsfx-inc">https://raw.githubusercontent.com/ink-sol/FamousCurves-Suite/8ea94b793a425fd9ba132c86e9de3061fff04793/src/dependencies/FamousCurves-InputEvents.jsfx-inc</source>
+        <source file="dependencies/FamousCurves.jsfx-inc">https://raw.githubusercontent.com/ink-sol/FamousCurves-Suite/8ea94b793a425fd9ba132c86e9de3061fff04793/src/dependencies/FamousCurves.jsfx-inc</source>
+        <source type="data" file="ink-sol/FamousCurves/FamousCurves_Suite_for_Reaper_MANUAL_ENG.pdf">https://raw.githubusercontent.com/ink-sol/FamousCurves-Suite/8ea94b793a425fd9ba132c86e9de3061fff04793/docs/FamousCurves_Suite_for_Reaper_MANUAL_ENG.pdf</source>
+        <source type="data" file="ink-sol/FamousCurves/FamousCurves_Suite_for_Reaper_MANUAL_SPA.pdf">https://raw.githubusercontent.com/ink-sol/FamousCurves-Suite/8ea94b793a425fd9ba132c86e9de3061fff04793/docs/FamousCurves_Suite_for_Reaper_MANUAL_SPA.pdf</source>
+      </version>
+    </reapack>
+  </category>
+</index>
